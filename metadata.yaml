@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '33897'
     url: http://www.gutenberg.org/2009/agents/33897
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29412#The-Phantom-Worldor-The-philosophy-of-spirits-apparitions--amp-c--amp-c.
 gutenberg_issued: '2009-07-14'
 gutenberg_type: Text
 identifiers:
